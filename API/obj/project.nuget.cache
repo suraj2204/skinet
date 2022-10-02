@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocDVtb4JTmZ9Pj1FJCfHsG43+St64qWsw84jwPOtl2ffhOFRE+74ZqdiT5zzr4qmq80LYMBuydDXLVtQcdZqoQ==",
+  "dgSpecHash": "Isq1ZWuMNggwAuP0zNgSu7JGDaoWl0jt4nBf4iLm8A3KD2t7EznoEuJ5Nm6aKvxeCEoEua76vzwB2jH9X6mKnQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Projects\\Angular\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Workspace\\Projects\\Angular\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suraj\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
