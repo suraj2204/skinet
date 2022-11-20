@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1//0k60BT8HEn9rIIXgmCoutJ2XeCKacoQ1yeB1eMjEdP8gJsA7r8CsUp8lBBzQLnXQ9z6lUrrs7yR1HDmcWlQ==",
+  "dgSpecHash": "rR8cD0oCslxRta3U9ON9riWNWueS/CS5KGOppAPFw2bF8mEHPdN/xTZnXDb/WdPK9RyFiHk6RtXUbXBIPZh83Q==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Projects\\Angular\\skinet\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Suraj\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Suraj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
